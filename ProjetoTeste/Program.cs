@@ -12,6 +12,7 @@ namespace ProjetoTeste
         {
             Console.WriteLine("Ola mundo");
             Console.WriteLine("salve");
+            Console.WriteLine("testando");
         }
     }
 }
